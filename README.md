@@ -14,3 +14,5 @@ The dataset was provided by MovieLens, a movie recommendation service.It contain
 movieId - Unique movie number(UniqueID) / title - Movie name
 #### rating.csv
 userId - Unique user number(UniqueID) / movieId - Unique movie number(UniqueID) / rating - Rating given to the movie by the user / timestamp - Evaluation date
+
+PS: I couldn't add the rating.csv file because of the file size
