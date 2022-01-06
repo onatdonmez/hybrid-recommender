@@ -87,7 +87,7 @@ movie = pd.read_csv('datasets/movie_lens_dataset/movie.csv')
 movies_to_be_recommend.head(5).merge(movie[["movieId", "title"]])
 
 ######################################################################################
-# Görev 6 : Make an item-based suggestion based on the name of the movie that the user has watched last and gave the highest score
+# 6.Make an item-based suggestion based on the name of the movie that the user has watched last and gave the highest score
 # Make 10 suggesstions
 # 5 suggestions user-based
 # 5 suggestions item-based
